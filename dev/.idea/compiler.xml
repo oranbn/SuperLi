@@ -6,7 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dev" />
         <module name="ADSS_Project_GroupF" />
+        <module name="dev1" />
       </profile>
     </annotationProcessing>
   </component>
